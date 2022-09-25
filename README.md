@@ -1,6 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mshetairy&style=flat-square&color=7895B2" /> </p>
 
-### Hi there 👋
+## Hi there 👋, I'm [Mirna Al-Shetairy](https://github.com/mshetairy) <img src="https://media4.giphy.com/media/Z8euEPCk9mbGsxhoIE/giphy.gif" width="70"></h2>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mshetairy&theme=graywhite&show_icons=true&hide=starts,issues" /></p>
