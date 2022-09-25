@@ -13,5 +13,5 @@ I'm Mirna. Currently doing my **M.Sc. in Computer Science** at Ain Shams Univers
 
 
 ## My GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mshetairy&theme=graywhite&show_icons=true&hide=starts,issues" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mshetairy&theme=graywhite&show_icons=true&hide=stars,issues" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshetairy&layout=compact&theme=graywhite" /></p>
