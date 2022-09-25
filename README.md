@@ -1,4 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mshetairy&style=flat-square&color=7895B2" /> </p>
+
 ### Hi there 👋
+
 
 <!--
 **mshetairy/mshetairy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
